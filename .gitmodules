@@ -1,0 +1,12 @@
+[submodule "unf-swuber_web_csharp_Net"]
+	path = unf-swuber_web_csharp_Net
+	url = https://github.com/Swuber/unf-swuber_web_csharp_Net.git
+[submodule "unf-swuber_web_app_phoenix"]
+	path = unf-swuber_web_app_phoenix
+	url = https://github.com/Swuber/unf-swuber_web_app_phoenix.git
+[submodule "unf-swuber_Android"]
+	path = unf-swuber_Android
+	url = https://github.com/Swuber/unf-swuber_Android.git
+[submodule "unf-swuber_IOS"]
+	path = unf-swuber_IOS
+	url = https://github.com/Swuber/unf-swuber_IOS.git
